@@ -5,7 +5,7 @@ import { calculate, formatNumber } from "./utils";
 
 const initData = {
     totalNumber: '0',
-    firstOperand: '0',
+    firstOperand: '',
     secondOperand: null,
     operator : null,
 }
